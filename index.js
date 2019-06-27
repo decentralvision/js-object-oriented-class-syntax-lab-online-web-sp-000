@@ -4,6 +4,7 @@ class BoardMember {
   constructor(name, homeState, training) {
     [this.name, this.homeState, this.training] = name, homeState, training
   }
+
 }
 // Add the following methods to the prototype using the class syntax:
 // + `veto` — returns `No, I must disagree`
