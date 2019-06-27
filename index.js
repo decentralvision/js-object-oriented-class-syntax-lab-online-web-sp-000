@@ -11,7 +11,9 @@ class BoardMember {
   sayHi() {return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`}
 }
 
-// class
+class Ceo {
+  constructor()
+}
 // Add the following methods to the prototype using the class syntax:
 // + `veto` — returns `No, I must disagree`
 //
