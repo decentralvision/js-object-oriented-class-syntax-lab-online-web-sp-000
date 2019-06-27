@@ -12,6 +12,7 @@ class BoardMember {
 }
 
 class Ceo extends BoardMember {
+  hireEmployee() {return "Welcome aboard!"}
 }
 // Add the following methods to the prototype using the class syntax:
 // + `veto` — returns `No, I must disagree`
