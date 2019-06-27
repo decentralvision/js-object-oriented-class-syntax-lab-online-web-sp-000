@@ -5,6 +5,7 @@ class BoardMember {
     [this.name, this.homeState, this.training] = name, homeState, training
   }
   veto() { return `No, I must disagree` }
+  approve() { return `You can do that!`}
 }
 // Add the following methods to the prototype using the class syntax:
 // + `veto` — returns `No, I must disagree`
