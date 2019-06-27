@@ -1,6 +1,8 @@
 // In `index.js`, build an ES2015 `BoardMember` class with the following properties set by the constructor: `name`, `homeState`, and `training`.
 //
-class BoardMember
+class BoardMember {
+
+}
 // Add the following methods to the prototype using the class syntax:
 // + `veto` — returns `No, I must disagree`
 //
